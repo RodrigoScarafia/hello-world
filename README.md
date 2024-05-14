@@ -1,4 +1,3 @@
-# hello-world
-This is a place where I store ideas, resources, share and discuss things with others.
+# hello-world V 2.0
 
 aquí estoy probando hacer cambios en el main
